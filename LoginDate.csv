@@ -1,0 +1,5 @@
+id,loginid,password,dispname,del_flag,lastlogin_date
+int,varchar(32),varchar(16),varchar(32),bool,datetime
+1,tom,nosushinolife,GOD,FALSE,2016/12/19 10:00
+2,mike,apple2016,Taro,FALSE,2016/12/19 10:05
+3,mary,c@ndyclash,Yoko,FALSE,2016/12/19 10:10
